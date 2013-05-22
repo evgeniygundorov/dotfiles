@@ -1,6 +1,6 @@
 [user]
-  name = USER_NAME
-  email = EMAIL@flatstack.com
+  name = evgeniygundorov
+  email = evgeniy.gundorov@flatstack.com
 [color]
   branch = auto
   diff = auto
@@ -12,8 +12,8 @@
 [core]
   autocrlf = false
   editor = subl --wait
-  excludesfile = /Users/USER/.gitignore
+  excludesfile = /Users/evgeniy/.gitignore
 [mergetool]
   keepBackup = true
 [github]
-  user = GIT_USER_NAME
+  user = evgeniygundorov
